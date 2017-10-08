@@ -30,4 +30,4 @@ Using it is quite straight forward:
 ./smartModels <<.path of shape repository> <<.stl file to compare with>> <<.number of clusters in your repository>>
 
 
-
+For suggestions and queries please mail: simplifyorg.info@gmail.com
