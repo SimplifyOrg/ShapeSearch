@@ -26,7 +26,7 @@ Current State of affairs:
 How to use it:
 
 Using it is quite straight forward:
-./smartModels "<<path of shape repository>>" "<<.stl file to compare with>>" "<<number of clusters in your repository>>"
+./smartModels "<<path of shape repository>>" "<<stl file to compare with>>" "<<number of clusters in your repository>>"
 
 
 
